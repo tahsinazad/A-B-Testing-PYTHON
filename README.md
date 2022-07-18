@@ -1,2 +1,2 @@
 # A-B-Testing
-hypothesis testing
+Hypothesis Testing using Python
